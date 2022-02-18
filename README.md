@@ -19,4 +19,7 @@ g. [Data Definitions - Creating Tables](URL 'https://github.com/rama-swuni/sqlpr
 
 h. [Data Definitions - Inserts](URL 'https://github.com/rama-swuni/sqlprogramming/blob/main/inserts.md')
 
+i. [Data Definitions - Update and Delete](URL 'https://github.com/rama-swuni/sqlprogramming/blob/main/updateanddelete.md')
+
+
 
