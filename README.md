@@ -8,3 +8,5 @@ a. [Introduction](URL 'https://github.com/rama-swuni/sqlprogramming/blob/main/in
 b. [Setting up the database](URL 'https://github.com/rama-swuni/sqlprogramming/blob/main/settingup.md')
 
 c. [Establishing the connection](URL 'https://github.com/rama-swuni/sqlprogramming/blob/main/establishtheconnection.md')
+
+d. [Querying the database - Simple](URL 'https://github.com/rama-swuni/sqlprogramming/blob/main/simplequery.md')
