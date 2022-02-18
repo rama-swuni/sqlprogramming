@@ -10,3 +10,7 @@ b. [Setting up the database](URL 'https://github.com/rama-swuni/sqlprogramming/b
 c. [Establishing the connection](URL 'https://github.com/rama-swuni/sqlprogramming/blob/main/establishtheconnection.md')
 
 d. [Querying the database - Simple](URL 'https://github.com/rama-swuni/sqlprogramming/blob/main/simplequery.md')
+
+e. [Querying the database - Conditions](URL 'https://github.com/rama-swuni/sqlprogramming/blob/main/querywithconditions.md')
+
+
