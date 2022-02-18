@@ -17,4 +17,6 @@ f. [Manipulating the resultset](URL 'https://github.com/rama-swuni/sqlprogrammin
 
 g. [Data Definitions - Creating Tables](URL 'https://github.com/rama-swuni/sqlprogramming/blob/main/datadefinition.md')
 
+h. [Data Definitions - Inserts](URL 'https://github.com/rama-swuni/sqlprogramming/blob/main/inserts.md')
+
 
