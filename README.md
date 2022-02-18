@@ -6,3 +6,5 @@ Since as part of the __Database Systems__ module we do not learn how to access t
 a. [Introduction](URL 'https://github.com/rama-swuni/sqlprogramming/blob/main/introduction.md')
 
 b. [Setting up the database](URL 'https://github.com/rama-swuni/sqlprogramming/blob/main/settingup.md')
+
+c. [Establishing the connection](URL 'https://github.com/rama-swuni/sqlprogramming/blob/main/establishtheconnection.md')
