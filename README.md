@@ -15,4 +15,6 @@ e. [Querying the database - Conditions](URL 'https://github.com/rama-swuni/sqlpr
 
 f. [Manipulating the resultset](URL 'https://github.com/rama-swuni/sqlprogramming/blob/main/manipulatingresultset.md')
 
+g. [Data Definitions - Creating Tables](URL 'https://github.com/rama-swuni/sqlprogramming/blob/main/datadefinition.md')
+
 
