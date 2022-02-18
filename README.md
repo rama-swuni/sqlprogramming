@@ -13,4 +13,6 @@ d. [Querying the database - Simple](URL 'https://github.com/rama-swuni/sqlprogra
 
 e. [Querying the database - Conditions](URL 'https://github.com/rama-swuni/sqlprogramming/blob/main/querywithconditions.md')
 
+f. [Manipulating the resultset](URL 'https://github.com/rama-swuni/sqlprogramming/blob/main/manipulatingresultset.md')
+
 
