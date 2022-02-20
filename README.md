@@ -5,23 +5,23 @@ Since as part of the __Database Systems__ module we do not learn how to access t
 ## Table of Contents
 a. [Introduction](introduction.md)
 
-b. [Setting up the database](URL 'https://github.com/rama-vaidhiy/sqlprogramming/blob/main/settingup.md')
+b. [Setting up the database](settingup.md)
 
-c. [Establishing the connection](URL 'https://github.com/rama-vaidhiy/sqlprogramming/blob/main/establishtheconnection.md')
+c. [Establishing the connection](establishtheconnection.md)
 
-d. [Querying the database - Simple](URL 'https://github.com/rama-vaidhiy/sqlprogramming/blob/main/simplequery.md')
+d. [Querying the database - Simple](simplequery.md)
 
-e. [Querying the database - Conditions](URL 'https://github.com/rama-vaidhiy/sqlprogramming/blob/main/querywithconditions.md')
+e. [Querying the database - Conditions](querywithconditions.md)
 
-f. [Manipulating the resultset](URL 'https://github.com/rama-vaidhiy/sqlprogramming/blob/main/manipulatingresultset.md')
+f. [Manipulating the resultset](manipulatingresultset.md)
 
-g. [Data Definitions - Creating Tables](URL 'https://github.com/rama-vaidhiy/sqlprogramming/blob/main/datadefinition.md')
+g. [Data Definitions - Creating Tables](datadefinition.md)
 
-h. [Data Definitions - Inserts](URL 'https://github.com/rama-vaidhiy/sqlprogramming/blob/main/inserts.md')
+h. [Data Definitions - Inserts](inserts.md)
 
-i. [Data Definitions - Update and Delete](URL 'https://github.com/rama-vaidhiy/sqlprogramming/blob/main/updateanddelete.md')
+i. [Data Definitions - Update and Delete](updateanddelete.md)
 
-j. [Futher ahead](URL 'https://github.com/rama-vaidhiy/sqlprogramming/blob/main/further.md')
+j. [Futher ahead](further.md)
 
 
 
