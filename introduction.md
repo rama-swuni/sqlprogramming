@@ -38,4 +38,4 @@ JDBC Driver for MySQL (Connector/J)	Download
 Unzip the file and save the *mysql-connector-java-8.0.21.jar* file in a well known location as this need to be used for compiling and executing the Java programs.
 
 
-*[Setting up the database](settingup.md)*
+**Go to** *[Setting up the database](settingup.md)*
