@@ -99,3 +99,5 @@ public void executeSelectQueries() throws SQLException {
   }
 
 ```
+
+**Go To** *[Querying the database - Conditions](querywithconditions.md)*
