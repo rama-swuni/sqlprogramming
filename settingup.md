@@ -13,3 +13,6 @@ Whatever way you create your MySQL database, ensure to get the following informa
 	A. Database Name (e.g. employees)
 	B. User name (e.g. root) 
 	C. Password (whatever you choose)
+
+
+**Go To** *[Establishing the connection](establishtheconnection.md)*
