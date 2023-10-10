@@ -81,3 +81,5 @@ private void printData(ResultSet rs) throws SQLException {
 ```
 ## Why is this important?
 Manipulating the ResultSet may not be important for a simple JDBC application which is not executed in a concurrent environment and does not update data as and when it fetches it, but if we want to scroll through the ResultSet, fetch a data, check its value and update it immediately, then we need to update the ResultSet settings for TYPE and SCROLL in order to do that. It is highly important to ensure that the correct ResultSet type is set for concurrent executions during transactions.
+
+**Go To** *[Data Definitions - Creating Tables](datadefinition.md)* 
