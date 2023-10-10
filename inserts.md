@@ -82,3 +82,4 @@ mysql> select * from products;
 +-----------+-------------+-----------+----------+-------+
 3 rows in set (0.00 sec)
 ```
+**Go To** *[Data Definitions - Update and Delete](updateanddelete.md)*
