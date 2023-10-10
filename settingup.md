@@ -16,3 +16,5 @@ Whatever way you create your MySQL database, ensure to get the following informa
 
 
 **Go To** *[Establishing the connection](establishtheconnection.md)*
+
+
