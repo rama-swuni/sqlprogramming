@@ -115,3 +115,6 @@ Once the values for each of the ? Is set we then execute the query and get the r
    rs = stmt.executeQuery();
 ```
 There is practically no difference in the resultset from using the string concatenation and the preparedstatement. But the PreparedStatement is a much cleaner way of executing the queries with different inputs.
+
+
+**Go To** *[Manipulating the resultset](manipulatingresultset.md)*
