@@ -112,3 +112,4 @@ public void createCommands() throws SQLException {
 
  }
  ```
+**Go To** *[Data Definitions - Inserts](inserts.md)*
