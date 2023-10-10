@@ -80,3 +80,6 @@ public class DBConnect {
 
 }
   ```
+
+
+**Go To** *[Querying the database - Simple](simplequery.md)*
